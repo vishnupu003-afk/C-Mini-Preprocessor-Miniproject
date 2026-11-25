@@ -57,7 +57,7 @@ This project implements basic preprocessing operations. It is not a complete imp
 
 ## Author
 
-Vishnu
+Vishnu P.U.
 
 ## Project Type
 
